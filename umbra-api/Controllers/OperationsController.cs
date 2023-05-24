@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
+﻿using Microsoft.AspNetCore.Mvc;
 using react_learn.Models;
 using react_learn.Data;
 
@@ -20,7 +18,7 @@ namespace react_learn.Controllers
         }
 
         [HttpGet]
-        public List<Operation> Get()
+        public List<Operation>? Get()
         {
             return LoadData.Operations();
         }

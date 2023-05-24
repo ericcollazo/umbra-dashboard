@@ -3,8 +3,8 @@
     public class Operator
     {
         public int Id { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        public string FirstName { get; set; } = "n/a";
+        public string LastName { get; set; } = "n/a";
         public Status CurrentStatus { get; set; }
 
         public enum Status
