@@ -1,4 +1,4 @@
-﻿namespace react_learn.Models
+﻿namespace umbra_api.Models
 {
     public class Operator
     {

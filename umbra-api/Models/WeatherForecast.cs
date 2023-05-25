@@ -1,4 +1,4 @@
-namespace umbra_api;
+namespace umbra_api.Models;
 
 public class WeatherForecast
 {

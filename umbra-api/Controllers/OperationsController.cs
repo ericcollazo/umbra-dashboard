@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using react_learn.Models;
-using react_learn.Data;
+using umbra_api.Models;
+using umbra_api.Data;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 

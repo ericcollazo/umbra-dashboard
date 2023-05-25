@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using umbra_api.Models;
 
 namespace umbra_api.Controllers;
 
